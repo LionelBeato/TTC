@@ -1,0 +1,38 @@
+05/06/2019
+
+- Make a portfolio wireframe and mockup
+- Continue working on main site
+
+05/07/2019
+
+- Use the meta tags to define rules for viewports
+
+05/08/2019
+
+- Covering Git, slides has more information on resources
+- SVN (Subversion) is a centralized version control system...
+  never head of this...
+- make it a point to comment on commit
+
+05/10/2019
+
+- Learned about Align/Waterfall
+- Tasks should always be relayed as wants from a high-level user 
+- Epic should always be relayed as a want from the developer (a major feature) 
+- Look into resources for data structures and algorithms. 
+
+			Epic: Badge System
+ 				User Story: *
+					Task: As a user I want to show off my badges
+					Task: As a user I want to see other people's badges
+						Sub-task: *
+
+- Acceptance Criteria describes intent and final functionality but not necessarily what the solution is.
+- Story points are used to determine relative difficulty of implementation (use the fibonacci sequence).
+- Retro/Reflections describe what went well and what didnt go well. 
+
+
+
+
+
+
